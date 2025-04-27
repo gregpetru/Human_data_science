@@ -74,8 +74,6 @@ flowchart TD
 │   └── processed/
 ├── notebooks
 │   └── Notebook finale.ipynb
-├── src
-│   └── analysis.py
 ├── reports
 │   └── figures/
 └── README.md
