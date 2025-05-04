@@ -1,6 +1,6 @@
 # 🚨 Analisi del Sovraffollamento Carcerario Italiano (2019–2025)
 
-> Studio quantitativo sul rapporto tra **capienza carceraria**, **condizioni di comfort** e **suicidi** nei penitenziari italiani.
+> Studio quantitativo sul rapporto tra **capienza carceraria** e **suicidi** nei penitenziari italiani.
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/license-MIT-green)
