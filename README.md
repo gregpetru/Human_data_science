@@ -14,7 +14,6 @@
 - [Pipeline](#pipeline)
 - [Struttura del progetto](#struttura-del-progetto)
 - [Requisiti](#requisiti)
-- [Installazione](#installazione)
 - [Utilizzo](#utilizzo)
 - [Risultati principali](#risultati-principali)
 - [Licenza](#licenza)
@@ -22,7 +21,7 @@
 
 ---
 
-## 🎯 Obiettivo
+##  Obiettivo
 
 Analizzare la relazione tra il **sovraffollamento carcerario** e l'**incidenza dei suicidi** nei penitenziari italiani (2019–2025).
 Sono state testate correlazioni e causalità apparente con modelli **non parametrici** e applicando anche test di **Granger-causality**.
@@ -42,7 +41,7 @@ I dati grezzi sono in `data/raw/`, quelli trattati in `data/processed/`.
 
 ---
 
-## ⚙️ Pipeline
+## Pipeline
 
 ```mermaid
 flowchart TD
@@ -74,7 +73,6 @@ flowchart TD
 ## 📦 Requisiti
 
 - Python ≥ 3.10
-- Java (per `tabula-py`)
 
 <details>
 <summary>Dipendenze principali</summary>
@@ -94,29 +92,12 @@ scipy
 
 ---
 
-## ⚡ Installazione
-
-```bash
-git clone https://github.com/gregpetru/Human_data_science.git
-cd Human_data_science
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
-
----
 
 ## 🚀 Utilizzo
 
 ### Notebook interattivo
 
 Apri `notebooks/Notebook finale.ipynb` in Jupyter e segui le sezioni.
-
-### Esecuzione via script
-
-```bash
-python src/analysis.py
-```
 
 ---
 
