@@ -24,9 +24,8 @@
 
 ## 🎯 Obiettivo
 
-Analizzare la relazione tra il **sovraffollamento carcerario** e l'**incidenza dei suicidi** nei penitenziari italiani (2019–2025), valutando anche la presenza di indicatori strutturali come dotazioni di **bagni, docce, prese elettriche e spazi ricreativi**.
-
-Sono state testate correlazioni e causalità apparente con modelli **non parametrici**, **OLS**, e **Negative Binomial**, applicando anche test di **Granger-causality**.
+Analizzare la relazione tra il **sovraffollamento carcerario** e l'**incidenza dei suicidi** nei penitenziari italiani (2019–2025).
+Sono state testate correlazioni e causalità apparente con modelli **non parametrici** e applicando anche test di **Granger-causality**.
 
 ---
 
